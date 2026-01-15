@@ -12,4 +12,4 @@ renderforest can kinda suck..
 
 <img width="412" height="156" alt="image" src="https://github.com/user-attachments/assets/d0dfdd24-9348-4417-a3fd-d76eaae2b171" />
 
-if u get this 403 error ur proxy/ip got blocked
+if u get this 403 error ur proxy/ip got blocked, but not from the ratelimit.
