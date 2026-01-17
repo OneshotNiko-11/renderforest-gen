@@ -161,8 +161,7 @@ def create_account(proxies, target_accounts, accounts_created, lock, running, pr
                 continue
 
             session.cookies.update({
-                '_csrf': csrf_token,
-                '__rf_uid': '%7B%22exp%22%3A%222027-01-13T18%3A51%3A44.085Z%22%2C%22uid%22%3A%222987a203b80f4e0482a06867b8369011%22%7D'
+                '_csrf': csrf_token
             })
 
             url = 'https://www.renderforest.com/signup'
